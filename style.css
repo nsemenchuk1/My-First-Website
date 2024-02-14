@@ -1,0 +1,109 @@
+html {
+  background-color: red;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: auto;
+}
+
+body {
+  background-color: white;
+  border-radius: 50px;
+  border: solid black;
+  border-width: 7px;
+  margin: auto;
+  /* text-align: center; */
+  padding: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+/* body {
+  text-align: center;
+} */
+
+ul {
+  font-size: 20px;
+  margin-left: 700px;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-style: italic;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 23px;
+  text-align: center;
+}
+
+img {
+  border-radius: 25px;
+  /* text-align: center; */
+}
+
+a {
+  color: red;
+}
+
+#last-img {
+  border: solid red;
+  border-width: 13px;
+  margin: auto;
+  display: block;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+/* .center {
+  margin: auto;
+  display: block;
+} */
+
+/* Next make hover effect that makes any text red (and maybe makes links light blue */
+
+h1:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+h2:hover {
+  color: red;
+}
+
+h3:hover {
+  color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+p:hover {
+  color: red;
+}
+
+ul:hover {
+  color: red;
+}
+
+hr {
+  border: solid black;
+}
